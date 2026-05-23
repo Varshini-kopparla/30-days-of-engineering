@@ -188,8 +188,8 @@ HTTPS adds:
 - security
 
 using:
-- TLS
-- SSL
+- TLS - Transport Layer Security 
+- SSL - Secure Sockets Layer
 
 Without HTTPS:
 - anyone on the network could potentially read traffic
