@@ -1,4 +1,4 @@
-# Day X - Binary Search Trees (BST)
+# Binary Search Trees (BST)
 
 Today I solved:
 
